@@ -9,5 +9,8 @@ public class TestFile {
         System.out.println("data");
         System.out.println("my mom claps her ass for money");
 
+        System.out.println("what");
+        System.out.println("wow");
+        System.out.println("data");
     }
 }
